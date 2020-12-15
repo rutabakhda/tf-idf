@@ -1,4 +1,4 @@
-# tf-idf
+# TF-IDF
 This is a simple IF-IDF implementation, aimed at easy and quick experimentation and concept understanding. 
 TF-IDF stands for Term Frequency - Inverse Document Frequency. It is used to measure how important a word is to a particular document. 
 
